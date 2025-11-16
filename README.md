@@ -11,3 +11,5 @@ https://github.com/Maciullo/DroneDetectionDataset
 https://github.com/HaithamHmahmoud/UAV-CDT
 
 https://github.com/chelicynly/A-Deep-Learning-Approach-to-Drone-Monitoring
+
+https://github.com/CenekAlbl/drone-tracking-datasets
